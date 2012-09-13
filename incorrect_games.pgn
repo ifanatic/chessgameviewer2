@@ -1,0 +1,62 @@
+[Event "?"]
+[Site "?"]
+[Date "2012.05.30"]
+[Round "?"]
+[White "White Player"]
+[Black "Black Player"]
+[Result "*"]
+[ECO "C20"]
+[PlyCount "5"]
+
+1. e4 e5 2. Ne2 Nf6 3. Nc3 *
+
+[Event "?"]
+[Site "?"]
+[Date "2012.05.30"]
+[Round "?"]
+[White "White Player"]
+[Black "Black Player"]
+[Result "*"]
+[ECO "B07"]
+[PlyCount "4"]
+
+1. e4 d6 2. Bb5+ Nf6 *
+
+[Event "?"]
+[Site "?"]
+[Date "2012.05.30"]
+[Round "?"]
+[White "White Player"]
+[Black "Black Player"]
+[Result "*"]
+[ECO "B00"]
+[PlyCount "7"]
+[SourceDate "2012.05.30"]
+
+1. e4 b6 2. Nf3 Nc6 3. Ba6 Bxa6 4. O-O *
+
+[Event "?"]
+[Site "?"]
+[Date "2012.05.30"]
+[Round "?"]
+[White "White Player"]
+[Black "Black Player"]
+[Result "*"]
+[ECO "B00"]
+[PlyCount "2"]
+[SourceDate "2012.05.30"]
+
+1. e4 b4 *
+
+[Event "?"]
+[Site "?"]
+[Date "2012.05.30"]
+[Round "?"]
+[White "White Player"]
+[Black "Black Player"]
+[Result "*"]
+[ECO "B00"]
+[PlyCount "2"]
+[SourceDate "2012.05.30"]
+
+1. e4 b9 *
